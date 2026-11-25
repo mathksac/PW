@@ -1,7 +1,3 @@
-// ==========================================
-// QUIZ - ROMA ANTIGA
-// ==========================================
-
 // Respostas certas de cada pergunta (na ordem: pergunta 1, 2, 3...)
 var respostasCertas = ["c", "b", "a", "d", "c", "b", "a", "d", "b", "c"];
 
