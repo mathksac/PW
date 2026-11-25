@@ -15,7 +15,7 @@
 }
 
 html {
-  scroll-behavior: smooth; /* rolagem suave ao clicar no menu */
+  scroll-behavior: smooth; 
 }
 
 body {
@@ -70,7 +70,6 @@ h1, h2, h3 {
 
 .capa {
   height: 90vh;
-  /* imagem com uma camada escura por cima para o texto aparecer */
   background-image: linear-gradient(rgba(40, 15, 5, 0.55), rgba(40, 15, 5, 0.75)), url("coliseu.jpg");
   background-size: cover;
   background-position: center;
@@ -180,7 +179,7 @@ h1, h2, h3 {
 
 .duas-colunas > * {
   flex: 1;
-  min-width: 0; /* impede a imagem de estourar a coluna */
+  min-width: 0; 
 }
 
 .espaco-topo {
@@ -326,7 +325,6 @@ h1, h2, h3 {
   accent-color: var(--vermelho);
 }
 
-/* Classes que o JavaScript coloca depois de corrigir */
 .acertou {
   border-left-color: var(--verde);
   background-color: #e8f5e9;
