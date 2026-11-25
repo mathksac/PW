@@ -71,7 +71,7 @@ h1, h2, h3 {
 .capa {
   height: 90vh;
   /* imagem com uma camada escura por cima para o texto aparecer */
-  background-image: linear-gradient(rgba(40, 15, 5, 0.55), rgba(40, 15, 5, 0.75)), url("imagens/coliseu.jpg");
+  background-image: linear-gradient(rgba(40, 15, 5, 0.55), rgba(40, 15, 5, 0.75)), url("coliseu.jpg");
   background-size: cover;
   background-position: center;
   display: flex;
